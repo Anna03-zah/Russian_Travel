@@ -12,4 +12,4 @@ Flexbox
 ## Ссылка на макет в Figma:
 (https://www.figma.com/design/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503-0&node-type=canvas&t=HiMcdkP4E9rIFHbg-0 )
 ## Ссылка на репозиторий: 
-https://Anna03-zah.github.io/Russian_Travel/ 
+https://github.com/Anna03-zah/Russian_Travel
